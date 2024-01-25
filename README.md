@@ -13,5 +13,5 @@ Nossa ideia era criar um site de divulgação de eventos, e a página hospedada 
 - JavaScript
 
 ## A página
-acesse <a href="https://riniel-rodrigo.github.io/MARCAE-Pagina-de-compra/">aqui.
+Acesse <a href="https://riniel-rodrigo.github.io/MARCAE-Pagina-de-compra/">aqui.
 ![image](https://github.com/riniel-rodrigo/MARCAE-Pagina-de-compra/assets/80684745/b047f08d-5034-4220-8a59-c29db91c9db8)
