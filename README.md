@@ -1,6 +1,6 @@
 # MARCAE EVENTOS
 
-Este projeto foi desenvolvido como parte de um trabalho em grupo do de curso análise e desenvolvimento de sistemas. A tarefa era criar o front-end de um site responsivo, utilizando exclusivamente HTML, CSS e JavaScript.
+Este projeto foi desenvolvido como parte de um trabalho em grupo do curso análise e desenvolvimento de sistemas. A tarefa era criar o front-end de um site responsivo, utilizando exclusivamente HTML, CSS e JavaScript.
 
 ## Descrição
 
